@@ -25,8 +25,12 @@ Nesse projeto foi utilizado um script para criação de uma estrutura de usuári
 
 ---
 
-## 🔧 Como executar:
+## Como executar:
 
 ```bash
 chmod +x script.sh
 sudo ./script.sh
+
+Execute como root ou com sudo:
+
+sudo ./script_infra.sh
